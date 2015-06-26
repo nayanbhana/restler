@@ -1,5 +1,5 @@
 {
-  "name": "restler",
+  "name": "@mishguru/restler",
   "version": "3.2.2",
   "description": "An HTTP client library for node.js",
   "contributors": [
