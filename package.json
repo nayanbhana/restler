@@ -28,6 +28,7 @@
     "test": "node test/all.js"
   },
   "dependencies": {
+    "https-proxy-agent": "^1.0.0",
     "iconv-lite": "0.2.11",
     "qs": "1.2.0",
     "uuid": "^2.0.1",
